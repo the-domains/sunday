@@ -1,0 +1,14 @@
+layout_spectrum: 0.5217357
+color:
+  saturation: 0.6515644
+  lightness: 0.132615
+  brandStrength: 0.5977525
+  brandColors:
+    - '#151F0E'
+    - '#E9FFFF'
+    - '#877865'
+    - '#B4BDBD'
+    - '#761628'
+  rhythmicContrast: 0.164641
+typography_spectrum: 0.6261459
+name: Sunday
