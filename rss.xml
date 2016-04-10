@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Sunday]]></title>
+        <description><![CDATA[Sunday]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sun, 10 Apr 2016 08:32:59 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[A Sunday Afternoon on the Island of La Grande Jatte]]></title>
+            <description><![CDATA[<article><h1>A Sunday Afternoon on the Island of La Grande Jatte</h1><p>A Sunday Afternoon on the Island of La Grande Jatte - 1884 ( French: Un dimanche après-midi à l'Île de la Grande Jatte - 1884 ) is one of Georges Seurat's most famous works, and is an example of pointillism. In 1879 Georges Seurat enlisted as a soldier in the French army and was back home by 1880.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/79036b0b1db391c96fdc856f67b5a54a6b160d04.jpg"></article>]]></description>
+            <link>https://en.m.wikipedia.org/wiki/A_Sunday_Afternoon_on_the_Island_of_La_Grande_Jatte</link>
+            <guid isPermaLink="false">a3b0b7c5-78d9-4972-9010-64ec45d85e72</guid>
+            <pubDate>Sun, 10 Apr 2016 08:32:19 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
