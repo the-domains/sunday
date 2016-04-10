@@ -1,14 +1,26 @@
-layout_spectrum: 0.5217357
 color:
   saturation: 0.6515644
-  lightness: 0.132615
   brandStrength: 0.5977525
+  rhythmicContrast: 0.164641
   brandColors:
     - '#151F0E'
     - '#E9FFFF'
     - '#877865'
     - '#B4BDBD'
     - '#761628'
-  rhythmicContrast: 0.164641
+  lightness: 0.132615
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+layout_spectrum: 0.5217357
 typography_spectrum: 0.6261459
 name: Sunday
